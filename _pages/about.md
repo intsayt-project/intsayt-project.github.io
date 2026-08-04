@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: INvestigating and Treebanking Scots And Yiddish Together
+subtitle: **INvestigating and Treebanking Scots And Yiddish Together**
 
 profile:
   align: right
