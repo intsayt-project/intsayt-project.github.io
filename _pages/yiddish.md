@@ -3,7 +3,7 @@ layout: page
 permalink: /yiddish/
 title: Yiddish
 description: Information about the Yiddish side of the project
-nav: true
+nav: false
 nav_order: 1
 calendar: false
 ---
