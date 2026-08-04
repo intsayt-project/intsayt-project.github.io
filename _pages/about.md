@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: INvestigating and Treebanking Scots And Yiddish Together
 
